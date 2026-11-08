@@ -72,7 +72,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=windows" alt="Windows" title="Windows" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox" alt="VirtualBox" title="VirtualBox" width="40" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation" alt="VMware" title="VMware" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=putty" alt="PuTTY" title="PuTTY" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
