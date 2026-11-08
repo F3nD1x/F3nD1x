@@ -6,17 +6,17 @@
 
 ### 👋 Salut, moi c'est Josias
 
-**Étudiant en cybersécurité à l'IPNET Institute of Technology** 🎓 | **Joueur de CTF** 🚩 | Lomé, Togo 🇹🇬
+**Étudiant en cybersécurité à l'IPNET Institute of Technology**  | **Joueur de CTF**  | Lomé, Togo 🇹🇬
 
 - **Réseau :** Cisco, routage et commutation, VoIP Asterisk, Active Directory, Windows Server
 - **Offensif :** tests d'intrusion, scan et énumération (Nmap, Hydra), exploitation web
 - **Défensif :** analyse réseau (Wireshark), forensics, OSINT, réponse aux incidents
 
-> 🚩 Actif en CTF : crypto, forensics, stéganographie, reverse, réseau
+> Actif en CTF : crypto, forensics, stéganographie, reverse, réseau
 
-> 🛠️ Je code mes propres outils : scanners de ports, cracker de hash, chiffrement RSA et AES
+> Je code mes propres outils : scanners de ports, cracker de hash, chiffrement RSA et AES
 
-> 📚 J'apprends, je pratique et je progresse un peu plus chaque jour.
+> J'apprends, je pratique et je progresse un peu plus chaque jour.
 
 ---
 
