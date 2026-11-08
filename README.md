@@ -14,8 +14,6 @@
 
 > 🚩 Actif en CTF : crypto, forensics, stéganographie, reverse, réseau
 
-> 📝 Mes writeups sont publiés ici : [Writeup NCTF](https://github.com/koudadzejosias-wq/Writeup-NCTF)
-
 > 🛠️ Je code mes propres outils : scanners de ports, cracker de hash, chiffrement RSA et AES
 
 > 📚 J'apprends, je pratique et je progresse un peu plus chaque jour.
@@ -43,7 +41,6 @@
 
 | Projet | Description |
 |---|---|
-| [Writeup-NCTF](https://github.com/koudadzejosias-wq/Writeup-NCTF) | Writeups de 39 challenges NCTF (crypto, forensics, stégano, reverse...) |
 | [mes-tps-ipnet](https://github.com/koudadzejosias-wq/mes-tps-ipnet) | Tous mes travaux pratiques à l'IPNET |
 | [deploiement-reseau-voip-asterisk](https://github.com/koudadzejosias-wq/deploiement-reseau-voip-asterisk) | Réseau VoIP Asterisk avec vidéosurveillance IP et portier |
 | [AgroSavoir](https://github.com/koudadzejosias-wq/AgroSavoir) | Plateforme agricole en TypeScript |
