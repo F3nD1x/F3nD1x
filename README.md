@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=CTF+Player;%C3%89tudiant+en+cybers%C3%A9curit%C3%A9;Junior+Security+Analyst)](https://github.com/koudadzejosias-wq)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=CTF+Player;%C3%89tudiant+en+cybers%C3%A9curit%C3%A9;Junior+Security+Analyst)](https://github.com/F3nD1x)
 
 </div>
 
@@ -103,8 +103,8 @@
 
 ---
 
-![Total repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkoudadzejosias-wq&query=%24.public_repos&label=Total%20repos&style=for-the-badge&logo=github&color=00C853&labelColor=1F2328)
-![Followers](https://img.shields.io/github/followers/koudadzejosias-wq?label=Followers&style=for-the-badge&logo=github&color=00C853&labelColor=1F2328)
+![Total repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FF3nD1x&query=%24.public_repos&label=Total%20repos&style=for-the-badge&logo=github&color=00C853&labelColor=1F2328)
+![Followers](https://img.shields.io/github/followers/F3nD1x?label=Followers&style=for-the-badge&logo=github&color=00C853&labelColor=1F2328)
 ![Profile views](https://komarev.com/ghpvc/?username=koudadzejosias-wq&label=Vues%20du%20profil&style=for-the-badge&color=00C853)
 
 
