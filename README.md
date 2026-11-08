@@ -73,15 +73,6 @@
 ![Followers](https://img.shields.io/github/followers/koudadzejosias-wq?label=Followers&style=for-the-badge&logo=github&color=00C853&labelColor=1F2328)
 ![Profile views](https://komarev.com/ghpvc/?username=koudadzejosias-wq&label=Vues%20du%20profil&style=for-the-badge&color=00C853)
 
----
-
-### 📌 Projets à la une
-
-| Projet | Description |
-|---|---|
-| [mes-tps-ipnet](https://github.com/koudadzejosias-wq/mes-tps-ipnet) | Tous mes travaux pratiques à l'IPNET |
-| [deploiement-reseau-voip-asterisk](https://github.com/koudadzejosias-wq/deploiement-reseau-voip-asterisk) | Réseau VoIP Asterisk avec vidéosurveillance IP et portier |
-| [AgroSavoir](https://github.com/koudadzejosias-wq/AgroSavoir) | Plateforme agricole en TypeScript |
 
 </div>
 
