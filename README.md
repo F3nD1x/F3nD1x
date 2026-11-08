@@ -48,11 +48,11 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox" width="48" alt="VirtualBox" title="VirtualBox" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=putty" width="48" alt="PuTTY" title="PuTTY" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="48" alt="Docker" title="Docker" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" width="48" alt="Nginx" title="Nginx" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=apache" width="48" alt="Apache" title="Apache" />
 
 <br/>
 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" width="48" alt="Nginx" title="Nginx" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=apache" width="48" alt="Apache" title="Apache" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="48" alt="Git" title="Git" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="48" alt="GitHub" title="GitHub" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="48" alt="VS Code" title="VS Code" />
