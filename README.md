@@ -54,7 +54,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="Markdown" title="Markdown" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/xml.svg" alt="XML" title="XML" width="40" height="40"/>
-
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" alt="Kali Linux" title="Kali Linux" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,7 +76,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=putty" alt="PuTTY" title="PuTTY" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" title="Docker" width="40" height="40"/>
-
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" alt="Nginx" title="Nginx" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
