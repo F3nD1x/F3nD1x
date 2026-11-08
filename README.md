@@ -42,6 +42,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite" width="48" alt="Burp Suite" title="Burp Suite" />
 <img src="assets/metasploit.svg" width="48" alt="Metasploit" title="Metasploit" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" width="48" alt="Wireshark" title="Wireshark" />
+<img src="assets/fortinet.svg" width="48" alt="Fortinet" title="Fortinet" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="48" alt="Linux" title="Linux" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=debian" width="48" alt="Debian" title="Debian" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=windows" width="48" alt="Windows" title="Windows" />
