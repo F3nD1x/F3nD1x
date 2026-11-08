@@ -4,7 +4,7 @@
 
 </div>
 
-### 👋 Salut, moi c'est Josias
+###  Salut, moi c'est Josias
 
 **Étudiant en cybersécurité à l'IPNET Institute of Technology**  | **Joueur de CTF**  | Lomé, Togo 🇹🇬
 
