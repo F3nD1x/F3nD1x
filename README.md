@@ -53,17 +53,17 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="Markdown" title="Markdown" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/xml.svg" alt="XML" title="XML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/xml.svg" alt="XML" title="XML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" alt="Kali Linux" title="Kali Linux" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite" alt="Burp Suite" title="Burp Suite" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/metasploit.svg" alt="Metasploit" title="Metasploit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/metasploit.svg" alt="Metasploit" title="Metasploit" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" alt="Wireshark" title="Wireshark" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/fortinet.svg" alt="Fortinet" title="Fortinet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/fortinet.svg" alt="Fortinet" title="Fortinet" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux" title="Linux" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -105,7 +105,7 @@
 
 ![Total repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FF3nD1x&query=%24.public_repos&label=Total%20repos&style=for-the-badge&logo=github&color=00C853&labelColor=1F2328)
 ![Followers](https://img.shields.io/github/followers/F3nD1x?label=Followers&style=for-the-badge&logo=github&color=00C853&labelColor=1F2328)
-![Profile views](https://komarev.com/ghpvc/?username=koudadzejosias-wq&label=Vues%20du%20profil&style=for-the-badge&color=00C853)
+![Profile views](https://komarev.com/ghpvc/?username=F3nD1x&label=Vues%20du%20profil&style=for-the-badge&color=00C853)
 
 
 </div>
