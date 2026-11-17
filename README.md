@@ -33,65 +33,65 @@
 </samp>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/python.svg" alt="Python" title="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C" title="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/c.svg" alt="C" title="C" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" title="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/cpp.svg" alt="C++" title="C++" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" title="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/java.svg" alt="Java" title="Java" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=php" alt="PHP" title="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/php.svg" alt="PHP" title="PHP" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="Bash" title="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/bash.svg" alt="Bash" title="Bash" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="PowerShell" title="PowerShell" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/powershell.svg" alt="PowerShell" title="PowerShell" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" title="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/html.svg" alt="HTML" title="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/ts.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="Markdown" title="Markdown" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/md.svg" alt="Markdown" title="Markdown" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/xml.svg" alt="XML" title="XML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" alt="Kali Linux" title="Kali Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/kali.svg" alt="Kali Linux" title="Kali Linux" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite" alt="Burp Suite" title="Burp Suite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/burpsuite.svg" alt="Burp Suite" title="Burp Suite" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/metasploit.svg" alt="Metasploit" title="Metasploit" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" alt="Wireshark" title="Wireshark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/wireshark.svg" alt="Wireshark" title="Wireshark" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/fortinet.svg" alt="Fortinet" title="Fortinet" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux" title="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/linux.svg" alt="Linux" title="Linux" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=debian" alt="Debian" title="Debian" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/debian.svg" alt="Debian" title="Debian" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows" alt="Windows" title="Windows" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/windows.svg" alt="Windows" title="Windows" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation" alt="VMware" title="VMware" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/vmwareworkstation.svg" alt="VMware" title="VMware" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=putty" alt="PuTTY" title="PuTTY" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/putty.svg" alt="PuTTY" title="PuTTY" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" title="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/docker.svg" alt="Docker" title="Docker" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" alt="Nginx" title="Nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/nginx.svg" alt="Nginx" title="Nginx" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=apache" alt="Apache" title="Apache" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/apache.svg" alt="Apache" title="Apache" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/git.svg" alt="Git" title="Git" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub" title="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="VS Code" title="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/vscode.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="Stack Overflow" title="Stack Overflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/stackoverflow.svg" alt="Stack Overflow" title="Stack Overflow" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" alt="ChatGPT" title="ChatGPT" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/chatgpt.svg" alt="ChatGPT" title="ChatGPT" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" alt="Claude" title="Claude" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/F3nD1x/F3nD1x/main/assets/icons/claude.svg" alt="Claude" title="Claude" width="40" height="40"/>
 </p>
 
 
